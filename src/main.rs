@@ -20,6 +20,6 @@ fn main() {
         .expect("Нет числа")
         .parse()
         .expect("Не число");
-    p
-    rintln!("{}", a+b);
+    
+    println!("{}", a+b);
 }
